@@ -1,2 +1,2 @@
-# Welcome to my profile!
-- This account is for me to track my progression.
+# Learning
+[![Learning](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
